@@ -1,0 +1,11 @@
+C:\Users\rdvn\source\repos\csharpcourse\AdonetDemo\bin\Debug\AdonetDemo.exe.config
+C:\Users\rdvn\source\repos\csharpcourse\AdonetDemo\bin\Debug\AdonetDemo.exe
+C:\Users\rdvn\source\repos\csharpcourse\AdonetDemo\bin\Debug\AdonetDemo.pdb
+C:\Users\rdvn\source\repos\csharpcourse\AdonetDemo\obj\Debug\AdonetDemo.csproj.AssemblyReference.cache
+C:\Users\rdvn\source\repos\csharpcourse\AdonetDemo\obj\Debug\AdonetDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\rdvn\source\repos\csharpcourse\AdonetDemo\obj\Debug\AdonetDemo.Form1.resources
+C:\Users\rdvn\source\repos\csharpcourse\AdonetDemo\obj\Debug\AdonetDemo.Properties.Resources.resources
+C:\Users\rdvn\source\repos\csharpcourse\AdonetDemo\obj\Debug\AdonetDemo.csproj.GenerateResource.cache
+C:\Users\rdvn\source\repos\csharpcourse\AdonetDemo\obj\Debug\AdonetDemo.csproj.CoreCompileInputs.cache
+C:\Users\rdvn\source\repos\csharpcourse\AdonetDemo\obj\Debug\AdonetDemo.exe
+C:\Users\rdvn\source\repos\csharpcourse\AdonetDemo\obj\Debug\AdonetDemo.pdb
